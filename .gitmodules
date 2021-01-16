@@ -1,0 +1,6 @@
+[submodule "Heathens-DOcean"]
+	path = Heathens-DOcean
+	url = git@github.com:inblack67/Heathens-DOcean.git
+[submodule "Heathens-Vercel"]
+	path = Heathens-Vercel
+	url = git@github.com:inblack67/Heathens-Vercel.git
