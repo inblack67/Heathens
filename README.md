@@ -1,8 +1,8 @@
 # Heathens
 
-- Real Time Slack Clone
+### Real Time Slack Clone
 
-- Functionalities
+### Functionalities
     - Login
     - Register
     - Reset Password
@@ -10,7 +10,8 @@
     - Channels
     - Messages => End-To-End Encrypted
 
-- Tech Stack
+### Tech Stack
+    - Ionic React
     - Next.js
     - GraphQL
     - Apollo
@@ -34,6 +35,11 @@
     - Vercel
     - Recaptcha
     - PWA
+
+### Codebase
+    - PWA
+    - IOS/ Android App
+    - Electron App
 
 - [Deployed](https://app.21heathens.tk)
 - [Repo](https://github.com/inblack67/Heathens)
