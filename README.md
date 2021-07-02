@@ -11,7 +11,6 @@
     - Messages => End-To-End Encrypted
 
 ### Tech Stack
-    - Ionic React
     - Next.js
     - GraphQL
     - Apollo
@@ -35,11 +34,6 @@
     - Vercel
     - Recaptcha
     - PWA
-
-### Codebase
-    - PWA
-    - IOS/Android App
-    - Electron App
 
 - [Deployed](https://app.21heathens.tk)
 - [Repo](https://github.com/inblack67/Heathens)

@@ -4,6 +4,3 @@
 [submodule "Heathens-Vercel"]
 	path = Heathens-Vercel
 	url = git@github.com:inblack67/Heathens-Vercel.git
-[submodule "Ionic-Heathens"]
-	path = Ionic-Heathens
-	url = git@github.com:inblack67/Ionic-Heathens.git
